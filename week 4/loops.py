@@ -135,6 +135,3 @@ print("cat" in words) # true
 print("cats" in words) # false
 print("the" in words) # false! because it isn't exact match to "there"
 # otherwise in words the same, returning true/false
-
-
-
